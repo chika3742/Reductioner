@@ -2,4 +2,4 @@
 
 約分計算機のソースコードです。
 
-<a href="bit.ly/rd-app" action="_blank">ダウンロードはこちら！！</a>
+<a href="http://bit.ly/rd-app" action="_blank">ダウンロードはこちら！！</a>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">約分計算機</string>
+    <string name="title">約分計算</string>
+    <string name="start">計算開始</string>
+    <string name="warning">(数字の大きさに比例して時間がかかります。)</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="drawer_open">Drawer Open</string>
+</resources>
